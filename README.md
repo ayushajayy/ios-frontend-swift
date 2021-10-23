@@ -1,6 +1,6 @@
 <h1 align="center">Ios Frontend Swift</h1>
 
-![ios swift](https://user-images.githubusercontent.com/64855541/138314093-f91aadcb-8c9e-4d2e-921b-29f865f76743.png)
+![8](https://user-images.githubusercontent.com/79747022/138434130-b3a76f28-31d7-4cde-8d76-3da97e172c04.png)
 
 <div align="center">
 
@@ -17,7 +17,8 @@
 <a href="https://github.com/Dezenix/ios-frontend-swift/pulls"><img src="https://img.shields.io/github/issues-pr/Dezenix/ios-frontend-swift?color=brightgreen"></a>
 <a href="https://github.com/Dezenix/ios-frontend-swift/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Dezenix/ios-frontend-swift?color=0059b3"></a>
 <!-- <a href="https://github.com/Dezenix/ios-frontend-swift/issues"><img src="https://img.shields.io/github/issues/Dezenix/ios-frontend-swift?color=0059b3"></a> -->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 
 ## ⚒️ Contribution Guidelines
